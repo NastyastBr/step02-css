@@ -1,0 +1,21 @@
+body{
+    color:rgba(83, 4, 81, 0.956);
+}
+
+a{
+    color:rgb(127, 38, 38);
+}
+
+img{
+    width: 100%;
+}
+
+.wrapper{
+    max-width: 920px;
+    margin: 0 auto;;
+}
+
+.textBigGreen{
+    text-transform: uppercase;
+    color:green;
+}
